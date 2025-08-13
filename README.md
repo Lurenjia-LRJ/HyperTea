@@ -13,7 +13,8 @@ With CUDA 12.4, and 1x NVIDIA 4090D.
 | Method | Dataset | mAP50 (%) | Precision (%) | Recall (%) | F1 (%) |
 |--------|---------|-----------|---------------|------------|--------|
 | HyperTea | DAUB    | 95.59     | 98.14         | 98.31      | 98.23  |
-| HyperTea | IRDST   | 76.42     | 91.18         | 84.33      | 87.62  |
+| HyperTea | IRDST   | 76.42     | 91.18         | 84.33      | 87.62  |  
+
 SOTA weights can be downloaded [here](https://pan.baidu.com/s/18BezWbztMub-GcMmIm1ZuQ?pwd=2025).
 ### PR curves on DAUB and IRDST datasets.
 <img width="521" height="798" alt="image" src="https://github.com/user-attachments/assets/679e921f-b620-49eb-83a3-641c746a68ae" />
